@@ -28,6 +28,7 @@ The commission percentage is assigned according to the following thresholds:
 
 
 Once the rate is determined, the program computes the commission using:
+
 Rate × Sales = Total Commission
 
 💡 Key Concepts Learned
