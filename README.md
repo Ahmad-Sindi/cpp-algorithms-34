@@ -12,13 +12,21 @@ This type of logic is essential in business applications such as sales tracking 
 The commission percentage is assigned according to the following thresholds:
 
 | Sales Amount | Commission Rate |
+
 | ************ | *************** |
+
 | ≥ 1,000,000  | 1%              |
+
 | ≥ 500,000    | 2%              |
+
 | ≥ 100,000    | 3%              |
+
 | ≥ 50,000     | 4%              |
+
 | ≥ 10,000     | 5%              |
+
 | < 10,000     | 0%              |
+
 
 Once the rate is determined, the program computes the commission using:
 Rate × Sales = Total Commission
