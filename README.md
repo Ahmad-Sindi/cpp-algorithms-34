@@ -13,19 +13,18 @@ The commission percentage is assigned according to the following thresholds:
 
 | Sales Amount | Commission Rate |
 
-| ************ | *************** |
 
-| ≥ 1,000,000  | 1%              |
+| ≥ 1,000,000  |              1% |
 
-| ≥ 500,000    | 2%              |
+| ≥ 500,000    |              2% |
 
-| ≥ 100,000    | 3%              |
+| ≥ 100,000    |              3% |
 
-| ≥ 50,000     | 4%              |
+| ≥ 50,000     |              4% |
 
-| ≥ 10,000     | 5%              |
+| ≥ 10,000     |              5% |
 
-| < 10,000     | 0%              |
+| < 10,000     |              0% |
 
 
 Once the rate is determined, the program computes the commission using:
